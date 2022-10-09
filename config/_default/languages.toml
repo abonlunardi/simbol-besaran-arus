@@ -1,0 +1,13 @@
+[en]
+  title = "News"
+  languageName = "English"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/en"
+
+[id]
+  title = "Brainly"
+  languageName = "Indonesian"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/id"
